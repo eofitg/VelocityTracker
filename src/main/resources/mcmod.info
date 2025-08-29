@@ -1,0 +1,14 @@
+[
+{
+  "modid": "velocitytracker",
+  "name": "Velocity Tracker",
+  "description": "\"How does knock-back work?\"",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["eofitg"],
+  "credits": "",
+  "logoFile": ""
+}
+]
