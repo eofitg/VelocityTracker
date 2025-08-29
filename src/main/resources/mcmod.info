@@ -5,8 +5,7 @@
   "description": "\"How does knock-back work?\"",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
+  "url": "https://github.com/eofitg/VelocityTracker",
   "authorList": ["eofitg"],
   "credits": "",
   "logoFile": ""
