@@ -4,6 +4,8 @@
 
 Render the player’s three-dimensional velocity data onto the screen within a coordinate system.
 
+![showcase](./img/showcase.png)
+
 ## Commands
 
 ### `/velocitytracker <option>`
